@@ -146,14 +146,6 @@ gradlew.bat build
 - ✅ Constraint layout for responsive UI
 - ✅ AppCompat for backward compatibility
 
-## License
-
-This project is currently unlicensed. For license information, see the repository settings.
-
-## Contributing
-
-Contributions are welcome! Feel free to submit pull requests or open issues for suggestions and improvements.
-
 ## Author
 
 - **GitHub:** [@00zkr](https://github.com/00zkr)
