@@ -6,6 +6,12 @@ A foundational Android application project demonstrating core Android developmen
 
 Lab01 is an Android Studio project built with modern Android development tools and best practices. It serves as a starter template for Android application development with proper Gradle configuration and dependency management.
 
+## Demo video
+
+https://github.com/user-attachments/assets/4ae66512-50a3-448e-b24b-a6a7e6b6e1ba
+
+
+
 ## Technology Stack
 
 - **Language:** Java
